@@ -1,0 +1,9 @@
+open_clip_torch
+torch
+torchvision
+pandas
+numpy
+matplotlib
+scikit-learn
+Pillow
+opencv-python
