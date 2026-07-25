@@ -1,0 +1,485 @@
+id,gender,masterCategory,subCategory,articleType,baseColour,season,year,usage,productDisplayName
+15970,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Turtle Check Men Navy Blue Shirt
+39386,Men,Apparel,Bottomwear,Jeans,Blue,Summer,2012.0,Casual,Peter England Men Party Blue Jeans
+59263,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Titan Women Silver Watch
+21379,Men,Apparel,Bottomwear,Track Pants,Black,Fall,2011.0,Casual,Manchester United Men Solid Black Track Pants
+53759,Men,Apparel,Topwear,Tshirts,Grey,Summer,2012.0,Casual,Puma Men Grey T-shirt
+1855,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Inkfruit Mens Chain Reaction T-shirt
+30805,Men,Apparel,Topwear,Shirts,Green,Summer,2012.0,Ethnic,Fabindia Men Striped Green Shirt
+26960,Women,Apparel,Topwear,Shirts,Purple,Summer,2012.0,Casual,Jealous 21 Women Purple Shirt
+29114,Men,Accessories,Socks,Socks,Navy Blue,Summer,2012.0,Casual,Puma Men Pack of 3 Socks
+30039,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Skagen Men Black Watch
+9204,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2011.0,Casual,Puma Men Future Cat Remix SF Black Casual Shoes
+48123,Women,Accessories,Belts,Belts,Black,Summer,2012.0,Casual,Fossil Women Black Huarache Weave Belt
+18653,Men,Footwear,Flip Flops,Flip Flops,Black,Fall,2011.0,Casual,Fila Men Cush Flex Black Slippers
+47957,Women,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,Murcia Women Blue Handbag
+46885,Boys,Footwear,Flip Flops,Flip Flops,Navy Blue,Fall,2012.0,Casual,Ben 10 Boys Navy Blue Slippers
+12369,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Formal,Reid & Taylor Men Check Purple Shirts
+29928,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Police Men Black Dial Watch PL12889JVSB
+42419,Girls,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Gini and Jony Girls Knit White Top
+51832,Women,Apparel,Innerwear,Bra,Beige,Summer,2016.0,Casual,Bwitch Beige Full-Coverage Bra BW335
+47359,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Baggit Women Brown Handbag
+17429,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,CASIO G-Shock Men Black Digital Watch G-7710-1DR G223
+12967,Men,Footwear,Sandal,Sandals,Black,Fall,2011.0,Casual,ADIDAS Men Spry M Black Sandals
+6842,Unisex,Accessories,Shoe Accessories,Shoe Accessories,Black,Summer,2011.0,Casual,Timberland Unisex Rubber Sole Brush Shoe Accessories
+13089,Men,Apparel,Topwear,Sweatshirts,Grey,Fall,2011.0,Sports,ADIDAS Men Lfc Auth Hood Grey Sweatshirts
+18461,Men,Personal Care,Fragrance,Deodorant,White,Spring,2017.0,Casual,David Beckham Signature Men Deos
+9036,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2011.0,Formal,Buckaroo Men Flores Black Formal Shoes
+48311,Women,Accessories,Jewellery,Bracelet,Bronze,Winter,2012.0,Casual,Pitaraa Women Bronze Beaded Bracelet
+7990,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Sports,Fila Men's Round Neck Navy Blue T-shirt
+56019,Women,Personal Care,Lips,Lipstick,Brown,Spring,2017.0,Casual,Colorbar Soft Touch Show Stopper Copper Lipstick 037
+21977,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Casual Brown Handbag
+37812,Men,Apparel,Topwear,Shirts,Navy Blue,Summer,2012.0,Formal,John Players Men Navy Blue Shirt
+4729,Boys,Apparel,Topwear,Tshirts,Green,Summer,2011.0,Casual,Disney Kids Boy's Crew Sea Life Sialing Green Teen Kidswear
+56825,Men,Apparel,Topwear,Shirts,Brown,Summer,2012.0,Casual,John Players Men Brown Shirt
+39988,Men,Footwear,Shoes,Casual Shoes,White,Winter,2014.0,Casual,Gas Men Europa White Shoes
+59051,Women,Footwear,Shoes,Flats,Black,Winter,2012.0,Casual,Carlton London Women Black & Gold Toned Flats
+20099,Women,Apparel,Topwear,Kurtas,Green,Fall,2011.0,Ethnic,Diva Women Embroided Green Kurta
+58183,Women,Accessories,Bags,Handbags,White,Summer,2012.0,Casual,Rocky S Women White Handbag
+29742,Women,Accessories,Bags,Handbags,Teal,Summer,2012.0,Casual,Kiara Women Teal Handbag
+51658,Women,Accessories,Watches,Watches,Copper,Winter,2016.0,Casual,Fossil Women Copper Chronograph Watch CH2589
+3954,Women,Apparel,Topwear,Tshirts,Pink,Summer,2011.0,Casual,Jealous 21 Women's Pink T-shirt
+18839,Men,Accessories,Belts,Belts,Black,Fall,2011.0,Formal,Peter England Men Formal Black Belt
+2886,Women,Footwear,Shoes,Flats,Brown,Winter,2015.0,Casual,Catwalk Women Leather Brown Flats
+23278,Men,Accessories,Watches,Watches,Off White,Winter,2016.0,Casual,Maxima Ssteele Men Off White Watch
+28690,Women,Apparel,Topwear,Kurtas,Beige,Summer,2012.0,Ethnic,W Women Printed Beige Kurta
+8580,Men,Apparel,Topwear,Waistcoat,Grey,Fall,2011.0,Casual,Scullers Men  Grey Waistcoat
+3168,Men,Footwear,Shoes,Sports Shoes,White,Fall,2010.0,Sports,Nike Men's Incinerate MSL White Blue Shoe
+18005,Men,Apparel,Bottomwear,Shorts,Black,Summer,2011.0,Sports,Puma Men Long Logo Black Bermuda
+17871,Men,Apparel,Innerwear,Briefs,Maroon,Winter,2016.0,Casual,Levis Men Boxer Maroon Brief
+9452,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Formal,John Miller Men Stripes White Red Shirts
+44984,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Maxima Women White Dial Watch
+10268,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2012.0,Formal,Clarks Men Hang Work Leather Black Formal Shoes
+45856,Women,Apparel,Topwear,Kurtas,Brown,Summer,2012.0,Ethnic,Vishudh Women Brown Kurta
+32138,Men,Apparel,Innerwear,Briefs,Blue,Summer,2016.0,Casual,Playboy Men Blue Titanium Briefs
+59435,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2012.0,Formal,Arrow Men Black Formal Shoes
+5891,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Puma Men's Stripe Polo Black T-shirt
+38630,Women,Apparel,Topwear,Tshirts,Purple,Summer,2012.0,Casual,Nike Women Purple Polo T-shirt
+4943,Men,Apparel,Topwear,Shirts,White,Summer,2011.0,Casual,Gini and Jony Boy's Kaleb White Brown Kidswear
+11188,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Carrera Men Dial steel finish strap Silver Watches
+10866,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Wrangler Men Motor Rider Red T-Shirts
+59607,Women,Apparel,Saree,Sarees,Grey,Fall,2012.0,Ethnic,FNF Pink & Grey Wedding Collection Sari
+15528,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,Puma Men Scribble Black Tshirts
+45258,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,CASIO EDIFICE Men Black Dial Chronograph Watch ED60
+42841,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,French Connection Women Beige Handbag
+22198,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2012.0,Casual,Timberland Men Black Casual Shoes
+29570,Men,Footwear,Shoes,Casual Shoes,Purple,Summer,2012.0,Casual,Vans Men Classic Slip-On Purple & Black Shoes
+43993,Women,Personal Care,Fragrance,Perfume and Body Mist,Pink,Spring,2017.0,Casual,Police Women Passion Perfume
+6628,Men,Footwear,Shoes,Sports Shoes,White,Summer,2011.0,Sports,ADIDAS Men's Lowell White Silver Shoe
+54924,Men,Apparel,Bottomwear,Shorts,Blue,Summer,2012.0,Casual,Do U Speak Green Men Blue Shorts
+26538,Men,Footwear,Shoes,Casual Shoes,Red,Fall,2012.0,Casual,ID Men Red Shoes
+35913,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Peperone Women Black & White Handbag
+49495,Men,Footwear,Shoes,Casual Shoes,Khaki,Summer,2012.0,Casual,Vans Men Khaki Shoes
+9660,Men,Apparel,Topwear,Shirts,Pink,Fall,2011.0,Casual,Indigo Nation Men Reversible Bling Pink Shirts
+2288,Women,Apparel,Topwear,Tshirts,Black,Fall,2010.0,Sports,Nike Women Black T-shirt
+23876,Men,Apparel,Topwear,Sweatshirts,Blue,Fall,2011.0,Casual,ADIDAS Men Blue Sweatshirt
+18237,Men,Apparel,Topwear,Tshirts,Red,Fall,2011.0,Casual,Manchester United Men Solid Red Tshirt
+54118,Women,Footwear,Shoes,Heels,Black,Winter,2012.0,Casual,Rocia Women Black Flats
+2872,Women,Footwear,Shoes,Heels,Brown,Winter,2015.0,Casual,Catwalk Women Leather Flats
+49653,Women,Apparel,Topwear,Tops,Green,Summer,2012.0,Casual,Mineral Women Green Top
+8574,Women,Footwear,Sandal,Sandals,Pink,Fall,2011.0,Casual,Crocs Dora Boots Pink Sandals
+16957,Men,Accessories,Eyewear,Sunglasses,Black,Winter,2016.0,Casual,Image Men Sunglasses
+19123,Men,Footwear,Flip Flops,Flip Flops,Silver,Fall,2011.0,Casual,Lotto Men XL Water Man Silver Slippers
+13419,Men,Apparel,Topwear,Tshirts,Pink,Summer,2011.0,Casual,United Colors of Benetton Men Solid Pink Polo T-shirts
+17885,Men,Apparel,Innerwear,Innerwear Vests,Grey,Summer,2016.0,Casual,Levis Men Comfort Style Grey Innerwear Vest
+43369,Men,Footwear,Flip Flops,Flip Flops,Black,Summer,2013.0,Casual,Reebok Men Black Possession Flip Flops
+48781,Women,Accessories,Jewellery,Pendant,Silver,Summer,2012.0,Casual,Lucera Women Silver Pendant
+44970,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Maxima Men White Dial Analog Chronograph Watch
+56489,Women,Personal Care,Nails,Nail Polish,Bronze,Spring,2017.0,,Streetwear Ash Nail Polish # 31
+39524,Unisex,Accessories,Bags,Laptop Bag,Orange,Summer,2012.0,Casual,Peter England Unisex Orange Sleeve Bag
+33822,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Puma Men Axis White & Grey Sports Shoes
+58513,Women,Apparel,Topwear,Tops,Off White,Summer,2012.0,Casual,Tonga Women Maroon Top
+25947,Women,Accessories,Scarves,Scarves,Brown,Summer,2012.0,Casual,Femella Women Brown Scarf
+52029,Unisex,Apparel,Topwear,Rain Jacket,Coffee Brown,Summer,2012.0,,Just Natural Unisex Charcoal Rain Jacket
+5865,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,ADIDAS Men's Twelve Faster T-shirt
+39716,Women,Apparel,Dress,Dresses,Blue,Summer,2012.0,Casual,Arrow Woman Women Blue Dress
+25349,Men,Apparel,Innerwear,Briefs,Red,Summer,2016.0,Casual,Levis Men Red Brief
+11940,Men,Footwear,Sandal,Sandals,Black,Summer,2011.0,Casual,Ganuchi Men Casual Black Sandals
+55802,Women,Apparel,Loungewear and Nightwear,Night suits,White,Summer,2017.0,Casual,SDL by Sweet Dreams Women Green Printed Night Suit S11-3124
+29584,Men,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Casual,Indigo Nation Men Printed Black T-shirt
+43967,Women,Personal Care,Fragrance,Perfume and Body Mist,Red,Spring,2017.0,Casual,DKNY Women Red Delicious Perfume
+28456,Women,Apparel,Bottomwear,Skirts,Blue,Summer,2012.0,Sports,Urban Yoga Women Blue Skirt With Leggings
+34009,Girls,Apparel,Topwear,Tops,Black,Summer,2012.0,Casual,Gini and Jony Girls Black Top
+19311,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Nike Men Air Rift MTR White Casual Shoe
+42089,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,ADIDAS Men White Corona Sports Shoes
+22950,Unisex,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Unisex Black Dial Watch 9915PP13
+49461,Men,Footwear,Shoes,Casual Shoes,Blue,Summer,2012.0,Casual,Vans Men Blue Era Scilla Plaid Shoes
+8746,Unisex,Footwear,Flip Flops,Flip Flops,Navy Blue,Summer,2015.0,Casual,Crocs Kids Navy Blue Clogs
+9694,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Classic Polo Men Vulcan White Polo Tshirts
+23882,Men,Footwear,Shoes,Sports Shoes,Grey,Fall,2011.0,Sports,Fila Men Destiny Grey Sports Shoes
+34835,Men,Footwear,Shoes,Sports Shoes,Blue,Summer,2012.0,Sports,ADIDAS Men Blue Chill Sports Shoes
+15984,Men,Apparel,Topwear,Shirts,Yellow,Fall,2011.0,Casual,Turtle Check Men Yellow Shirt
+41268,Men,Accessories,Wallets,Wallets,Black,Summer,2012.0,Casual,Arrow Men Black Wallet
+11518,Women,Footwear,Shoes,Heels,Grey,Winter,2015.0,Casual,Catwalk Women Gun Metal Grey Heels
+14856,Women,Accessories,Wallets,Wallets,Beige,Summer,2011.0,Casual,United Colors of Benetton Women Solid Beige Wallets
+33648,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Lotto Men Ridge Brown Sandals
+59297,Men,Apparel,Topwear,Shirts,White,Fall,2012.0,Casual,U.S. Polo Assn. Men White & Navy Blue Shirt
+28032,Men,Apparel,Innerwear,Briefs,White,Summer,2016.0,Casual,Jockey ELANCE Men Bikini White Brief 1005
+27846,Women,Apparel,Topwear,Blazers,Charcoal,Summer,2012.0,Formal,Scullers For Her Charcoal Blazer
+26994,Women,Apparel,Bottomwear,Jeans,Black,Summer,2012.0,Casual,Jealous 21 Women Black Jeans
+49839,Women,Footwear,Flip Flops,Flip Flops,Red,Winter,2012.0,Casual,iPanema Women Red Flip Flops
+31923,Women,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,Fabindia Women Blue Silk Sling Bag
+2618,Women,Footwear,Shoes,Flats,Silver,Spring,2010.0,Casual,Carlton London Women Silver Wedge Sandal
+54588,Women,Apparel,Topwear,Kurtas,Green,Summer,2012.0,Ethnic,Sushilas Women Printed Green Kurta
+49005,Women,Accessories,Jewellery,Ring,Silver,Summer,2012.0,Casual,Lucera Women Silver Ring
+8322,Boys,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Doodle Boy's Route 66 Biker Blue Teen Kidswear
+13841,Unisex,Accessories,Watches,Watches,White,Winter,2016.0,Casual,ADIDAS Unisex Three Small Dials White Watches
+28200,Men,Accessories,Eyewear,Sunglasses,Copper,Winter,2016.0,Casual,Ray-Ban Men Active Lifestyle Copper Sunglasses
+12993,Unisex,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,ADIDAS Kids Adispeed Black Sports Shoes
+7158,Men,Apparel,Topwear,Shirts,Green,Fall,2011.0,Casual,Scullers Men  Green Check Shirt
+18495,Men,Footwear,Sandal,Sandals,White,Fall,2011.0,Casual,Puma Men Fashion Cat White Slipper
+8110,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Men Economy 2 Analg Black Watch
+19547,Men,Apparel,Topwear,Sweatshirts,Blue,Fall,2011.0,Casual,United Colors of Benetton Men Solid Blue Sweatshirt
+7964,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Sports,Puma Men's Large Logo Graphic Black T-shirt
+36934,Women,Personal Care,Fragrance,Perfume and Body Mist,Gold,Spring,2017.0,Casual,Giorgio Armani Women Idole Perfume
+39140,Women,Apparel,Apparel Set,Kurta Sets,Black,Summer,2012.0,Ethnic,Aneri Women Black & Maroon Salwar Suit
+20851,Women,Accessories,Bags,Clutches,Red,Winter,2015.0,Casual,Spice Art Women Ribbon Embroidery Red Clutch
+41866,Men,Footwear,Sandal,Sandals,Beige,Fall,2015.0,Casual,Estd. 1977 Men Beige & Green Sandals
+58177,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Rocky S Women Brown Handbag
+44528,Men,Footwear,Sandal,Sandals,Black,Summer,2012.0,Casual,Coolers Men Black Sandals
+16392,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Levis Men Check Red Shirts
+51455,Women,Apparel,Topwear,Shrug,Pink,Summer,2012.0,Casual,Tonga Women Pink Printed Shrug
+50587,Men,Apparel,Innerwear,Briefs,Grey,Summer,2016.0,Casual,Chromozome Men Grey Briefs
+17240,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,U.S. Polo Assn. Men Stripes Black  Polo Tshirt
+47530,Women,Footwear,Shoes,Flats,Copper,Winter,2012.0,Casual,Portia Women Copper-Toned & Brown Sandals
+6617,Men,Apparel,Topwear,Shirts,Black,Summer,2011.0,Casual,Spykar Men Black and white Check Shirt
+12732,Unisex,Accessories,Bags,Backpacks,Black,Fall,2011.0,Sports,Nike Unisex Swoosh Black Backpack
+3365,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Myntra Men's Brain Black T-shirt
+42042,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,Nike Men Air Relentless 2 MSL White Sports Shoes
+23849,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,ADIDAS Men Black Anzo Breeze Casual Shoes
+43190,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Fastrack Women White Dial Watch
+48578,Men,Accessories,Jewellery,Bracelet,Steel,Summer,2012.0,Casual,Revv Men Steel Bracelet
+30462,Women,Apparel,Innerwear,Bra,Black,Summer,2014.0,Casual,Lovable Women All Day Long Black Bra
+18208,Men,Accessories,Headwear,Caps,White,Fall,2011.0,Casual,Manchester United Men Solid White Cap
+54127,Women,Footwear,Shoes,Heels,Black,Winter,2012.0,Casual,Rocia Women Black Heels
+10065,Men,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Puma Men ducati logo tee Yellow Tshirts
+24250,Men,Footwear,Shoes,Casual Shoes,White,Fall,2012.0,Casual,Numero Uno Men White Casual Shoes
+32335,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Q&Q Men Silver-Toned Dial Analogue Watch Q252J404Y
+25382,Men,Apparel,Innerwear,Innerwear Vests,White,Summer,2016.0,Casual,Levis Men White Innerwear Vest
+56670,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Maxima Men Black Dial Watch
+5092,Men,Apparel,Topwear,Tshirts,Purple,Summer,2011.0,Casual,Wrangler Men's Minstrel Shoulder Loop Purple T-shirt
+10859,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Furious Rides Navy Blue T-Shirts
+59638,Women,Apparel,Saree,Sarees,Green,Fall,2012.0,Ethnic,FNF Green Wedding Collection Sari
+15517,Men,Footwear,Shoes,Casual Shoes,Red,Fall,2011.0,Casual,Rockport Men LLandro Red Casual Shoes
+4140,Women,Footwear,Shoes,Casual Shoes,Green,Winter,2015.0,Casual,Skechers Women Green Shoe
+36795,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Maxima Men Ssteele Silver Dial Watch
+40527,Men,Accessories,Watches,Watches,Gold,Winter,2016.0,Casual,Titan Men Gold Dial Watch
+10257,Men,Apparel,Bottomwear,Trousers,Black,Fall,2011.0,Formal,John Miller Men Solid Type Black Trousers
+24062,Men,Apparel,Topwear,Tshirts,Navy Blue,Summer,2012.0,Casual,Locomotive Men Navy Blue Printed T-shirt
+45869,Men,Accessories,Watches,Watches,Brown,Winter,2016.0,Casual,Maxima Men Brown Dial Watch
+11385,Women,Apparel,Topwear,Sweatshirts,Black,Fall,2011.0,Casual,United Colors Of Benetton Women Light Winter Black Sweatshirts
+53130,Women,Footwear,Shoes,Flats,Brown,Winter,2015.0,Casual,Catwalk Women Brown Sandals
+44187,Women,Personal Care,Fragrance,Perfume and Body Mist,White,Spring,2017.0,Casual,Nike Fragrances Women 5th Element Perfume 150 ml
+21510,Women,Accessories,Bags,Handbags,White,Winter,2015.0,Casual,Kiara Women Graphiti White Handbag
+51667,Men,Accessories,Eyewear,Sunglasses,Grey,Winter,2016.0,Casual,Louis Philippe Men Grey Sunglasses
+22395,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Mark Taylor Men Striped Blue Shirt
+35322,Women,Accessories,Jewellery,Earrings,Silver,Winter,2016.0,Ethnic,Fabindia Women Anusuya Silver Earrings
+6425,Unisex,Footwear,Shoes,Casual Shoes,Black,Summer,2011.0,Casual,Lotto Unisex Canvas Black Check Shoe
+18806,Men,Accessories,Belts,Belts,Tan,Summer,2011.0,Casual,Peter England Men Casual Tan Belt
+23247,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Arrow Men Formal Black Shoe
+17072,Women,Accessories,Belts,Belts,Grey,Winter,2015.0,Casual,Lino Perros Women Weaved  Grey Belt
+31782,Women,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,Lee Women Paula Blue Top
+42270,Unisex,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Vans Unisex Black & Grey Classic Shoes
+12500,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Short Black Shirts
+26735,Men,Personal Care,Fragrance,Deodorant,Black,Spring,2017.0,Casual,Reebok Men Pack of 2 Pirates of the Caribbean Deos
+30650,Men,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Casual,Nike Men Printed Black T-shirt
+21948,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Casual Brown Handbag
+32563,Women,Apparel,Bottomwear,Trousers,Blue,Summer,2012.0,Casual,ONLY Women directoire blue Trousers
+58980,Women,Personal Care,Fragrance,Deodorant,Pink,Spring,2017.0,Casual,Colour me Women Flowers Deo
+40143,Girls,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,Gini and Jony Girls Pretty Blossom Blue Top
+10633,Men,Footwear,Shoes,Formal Shoes,Brown,Fall,2011.0,Formal,Carlton London Men Formal Brown Formal Shoes
+24406,Women,Apparel,Topwear,Kurtas,Red,Summer,2012.0,Ethnic,Vishudh Women Red Printed Kurta
+4716,Unisex,Accessories,Watches,Watches,Black,Winter,2016.0,Sports,ADIDAS Unisex Response ST Analogue Black Watch
+21174,Women,Apparel,Topwear,Tops,Beige,Fall,2011.0,Casual,s.Oliver Women Stripes Beige Top
+15341,Women,Apparel,Bottomwear,Shorts,Pink,Fall,2011.0,Sports,Nike Women Solid Pink Shorts
+52486,Women,Apparel,Innerwear,Camisoles,Maroon,Winter,2015.0,Casual,Red Rose Maroon Camisole
+53554,Men,Apparel,Innerwear,Boxers,Multi,Summer,2016.0,Casual,Probase Multicoloured Printed Boxers
+14293,Men,Apparel,Topwear,Tshirts,Blue,Fall,2011.0,Casual,Classic Polo Men Stripes Blue Tshirts
+47366,Women,Accessories,Bags,Handbags,Blue,Summer,2012.0,Casual,Baggit Women Blue Bag
+6041,Men,Apparel,Topwear,Tshirts,Navy Blue,Summer,2011.0,Casual,UCB Men's Polo Neck With Lion Logo Navy Blue T-shirt
+23623,Girls,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Doodle Kids Girls Pink I love Shopping Top
+17416,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Lotto Men Atlantica Black Sports Shoe
+9835,Women,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,Little Miss Women Printed Grey T-shirt
+29319,Unisex,Accessories,Bags,Backpacks,Red,Summer,2012.0,Casual,ADIDAS Unisex Chicago Bulls Red Backpack
+7193,Women,Apparel,Bottomwear,Jeans,Black,Fall,2011.0,Casual,Jealous 21 Women Black Jegging
+12958,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,ADIDAS Men Sports Black Sports Shoes
+27283,Women,Apparel,Topwear,Kurtas,Magenta,Fall,2011.0,Ethnic,Mother Earth Women Magenta Kurta
+30234,Men,Footwear,Flip Flops,Flip Flops,Black,Summer,2012.0,Casual,Numero Uno Men Black Flip Flops
+9009,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Murcia Women Snake Print Bag Brown Handbags
+3533,Men,Apparel,Topwear,Tshirts,Navy Blue,Summer,2011.0,Casual,Myntra Men's If You Don't Like Navy Blue T-shirt
+42614,Women,Accessories,Jewellery,Jewellery Set,Gold,Winter,2016.0,Casual,Estelle Women Earrings & Pendant Set
+12164,Women,Apparel,Topwear,Dupatta,Orange,Fall,2011.0,Ethnic,Aurelia Women Voile Orange Dupatta
+26351,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,DKNY Women White Dial Watch NY8472
+17624,Men,Apparel,Bottomwear,Track Pants,Navy Blue,Fall,2011.0,Sports,ADIDAS Men Solid Navy Blue Track Pant
+47154,Girls,Apparel,Bottomwear,Capris,Black,Summer,2012.0,Casual,Gini and Jony Girls Black Capris
+35574,Men,Footwear,Flip Flops,Flip Flops,Red,Summer,2013.0,Casual,Gliders Men Esquire Red Flip Flops
+46086,Women,Footwear,Shoes,Sports Shoes,Lavender,Summer,2012.0,Sports,ADIDAS Women Lavender Hagkok Sports Shoes
+51031,Women,Apparel,Innerwear,Bra,White,Summer,2017.0,Casual,Enamor White Bra
+13284,Men,Apparel,Bottomwear,Shorts,Black,Fall,2011.0,Casual,Gini and Jony Kids Boys Solid Black Shorts
+54543,Men,Footwear,Shoes,Sports Shoes,White,Fall,2012.0,Casual,F Sports Men White Outlander Sports Shoes
+55491,Women,Personal Care,Lips,Lip Gloss,Brown,Spring,2017.0,Casual,Revlon Gold Dust Poussiere Doree Colorburst Lip Gloss 024
+26163,Men,Apparel,Bottomwear,Trousers,Grey,Summer,2012.0,Formal,John Miller Men Dark Grey Trousers
+3701,Women,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,Tantra Women Flower Heart Black Long T-shirt
+29917,Men,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Police Men White Dial Watch PL12698JS
+42426,Women,Apparel,Topwear,Kurtas,Sea Green,Summer,2012.0,Ethnic,Aurelia Women Sea Green Kurta
+32751,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,FILA Men Liga II Black Shoes
+56214,Women,Accessories,Jewellery,Earrings,Gold,Winter,2016.0,Casual,Estelle Women Gold Earrings
+10401,Women,Apparel,Topwear,Tops,Purple,Fall,2011.0,Casual,Jealous 21 Women Uaine Purple Tops
+40371,Women,Apparel,Bottomwear,Jeans,Navy Blue,Summer,2012.0,Casual,Tokyo Talkies Women Navy Slim Fit Jeans
+21346,Men,Accessories,Eyewear,Sunglasses,Gold,Winter,2016.0,Casual,Pal Zileri Men Casual Gold Frame Sunglasses
+45603,Men,Footwear,Shoes,Formal Shoes,Black,Summer,2012.0,Formal,Arrow Men Black Formal Shoes
+4524,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2011.0,Sports,Puma Men's YugoRun Black White Shoe
+37223,Women,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,United Colors of Benetton Women Blue Top
+53766,Men,Apparel,Topwear,Tshirts,White,Summer,2012.0,Casual,Puma Men White and Navy Blue T-shirt
+25520,Girls,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Doodle Kids Girls City Chic White Top
+32597,Women,Apparel,Topwear,Tops,Black,Summer,2012.0,Casual,ONLY Women Black Top
+58974,Men,Personal Care,Fragrance,Deodorant,Gold,Spring,2017.0,Casual,Colour me Men Gold Deo
+33445,Women,Accessories,Wallets,Wallets,Black,Summer,2012.0,Casual,Baggit Women Lamboo Mayur Black Wallet
+57100,Women,Apparel,Topwear,Tops,Pink,Summer,2012.0,Casual,Elle Women Dark Pink Top
+36137,Women,Footwear,Shoes,Sports Shoes,Pink,Summer,2012.0,Sports,Nike Women Free Run Pink Sports Shoes
+41859,Men,Footwear,Sandal,Sandals,Black,Summer,2016.0,Casual,Estd. 1977 Men Black Sandals
+21180,Men,Footwear,Flip Flops,Flip Flops,Black,Summer,2011.0,Casual,ADIDAS Men Adi Cells Black Flip Flops
+39943,Men,Footwear,Shoes,Casual Shoes,Brown,Summer,2013.0,Casual,GAS Men Brown Count Casual Shoes
+52472,Women,Apparel,Loungewear and Nightwear,Bath Robe,Pink,Winter,2015.0,Casual,Red Rose Women White & Pink Polka Dot Print Bath Robe
+58148,Unisex,Accessories,Headwear,Caps,White,Fall,2012.0,Casual,Puma Unisex White Cap
+20052,Women,Accessories,Mufflers,Mufflers,Yellow,Fall,2011.0,Casual,United Colors Of Benetton Women Yellow Muffler
+5630,Women,Footwear,Flip Flops,Flip Flops,Blue,Summer,2011.0,Casual,ADIDAS Women's Adi Groove Blue Flip Flop
+44517,Men,Footwear,Flip Flops,Flip Flops,Brown,Summer,2013.0,Casual,Coolers Men Brown Pokar Flip Flops
+47392,Women,Accessories,Bags,Handbags,Beige,Fall,2012.0,Casual,Baggit Women Beige Bag
+50325,Women,Apparel,Topwear,Kurtas,Navy Blue,Summer,2012.0,Ethnic,Aurelia Women Navy Blue Kurta
+8913,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,Puma Men Cabana Racer Sketch White Sports Shoes
+16530,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Locomotive Men Check Red Shirt
+22705,Men,Footwear,Shoes,Casual Shoes,White,Fall,2011.0,Casual,Nike Men White Capri II Casual Shoe
+7167,Men,Apparel,Topwear,Shirts,Purple,Fall,2011.0,Casual,Scullers Men Scul Purple White Shirt
+46240,Women,Apparel,Topwear,Tunics,White,Summer,2012.0,Casual,Fusion Beats Women White Printed Tunic
+27277,Women,Apparel,Topwear,Kurtas,Green,Fall,2011.0,Ethnic,Mother Earth Women Blue Kurta
+13042,Women,Footwear,Shoes,Flats,Brown,Winter,2012.0,Casual,Inc 5 Women Brown Heels
+6889,Women,Apparel,Topwear,Jackets,Cream,Summer,2011.0,Casual,Forever New Women Stone Cream Jacket
+31312,Women,Apparel,Topwear,Kurtas,Peach,Summer,2012.0,Ethnic,W Women Peach Kurta
+12190,Men,Apparel,Topwear,Shirts,Blue,Fall,2011.0,Casual,Basics Men Blue Slim Fit Checked Shirt
+55657,Women,Footwear,Shoes,Heels,Gold,Winter,2015.0,Casual,Catwalk Women Golden Wedges
+19578,Women,Apparel,Topwear,Tops,Purple,Summer,2011.0,Casual,United Colors of Benetton Women Solid Purple Top
+27879,Women,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,Scullers For Her Women Blue Top
+34452,Women,Footwear,Shoes,Flats,Copper,Winter,2012.0,Casual,Rocia Women Copper Sandals
+6287,Men,Apparel,Topwear,Tshirts,Yellow,Summer,2011.0,Casual,Classic Polo Men's Swiss Yellow T-shirt
+7355,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Tantra Men's Black Sabbath Navy T-shirt
+46072,Men,Accessories,Belts,Belts,Black,Summer,2012.0,Casual,Lino Perros Men Black Leather Belt
+22537,Men,Footwear,Sandal,Sandals,Tan,Summer,2013.0,Casual,Gas Men Eldorado Tan Casual  Sandals
+28831,Women,Apparel,Innerwear,Briefs,Brown,Summer,2017.0,Casual,Enamor Women Pack of 3 Mid-Rise Bikini Brief
+43500,Men,Apparel,Topwear,Tshirts,White,Summer,2012.0,Casual,French Connection Men White T-shirt
+2627,Women,Footwear,Shoes,Flats,Silver,Fall,2010.0,Casual,Carlton London Women Wedge Silver Sandal
+27045,Women,Accessories,Bags,Clutches,Off White,Summer,2012.0,Casual,Yelloe Off White Fur Zip Clutch
+13270,Women,Apparel,Topwear,Tops,White,Fall,2011.0,Casual,Palm Tree Kids Girls Printed White Tops
+18698,Men,Apparel,Innerwear,Briefs,Grey,Summer,2016.0,Casual,Hanes Men Grey Ultimate Duo Dry Cotton Stretch Bikini Briefs
+55465,Women,Personal Care,Lips,Lipstick,Red,Spring,2017.0,Casual,Revlon Super Lusterous Lipstick 304
+26197,Men,Personal Care,Fragrance,Perfume and Body Mist,Green,Spring,2017.0,Casual,Formula 1 Go Men Perfume
+31120,Girls,Apparel,Topwear,Tops,Pink,Summer,2012.0,Casual,Palm Tree Girls Pink Top
+25712,Unisex,Accessories,Headwear,Caps,Blue,Summer,2012.0,Sports,ADIDAS Unisex Blue Cap
+11527,Men,Apparel,Topwear,Tshirts,Olive,Fall,2011.0,Casual,United Colors of Benetton Men Olive Tshirts
+14869,Men,Accessories,Wallets,Wallets,Black,Summer,2011.0,Casual,United Colors of Benetton Men Solid Black Wallets
+40385,Women,Apparel,Topwear,Tops,Yellow,Summer,2012.0,Casual,Tokyo Talkies Women Yellow Top
+15187,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Arrow Sport Men Solid White Polo Tshirts
+5402,Women,Footwear,Shoes,Sports Shoes,Purple,,2011.0,Sports,Kalenji Ekiden 200 Wn Purple 2011
+44725,Women,Footwear,Flip Flops,Flip Flops,Orange,Summer,2012.0,Casual,Lotto Women Coral Elegant Flip Flops
+20260,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Wrangler Men Applique Navy Blue Tshirt
+7731,Men,Footwear,Flip Flops,Flip Flops,Grey,Winter,2011.0,Casual,Puma Men's Winglet II Grey Yellow White Flip Flop
+22153,Men,Footwear,Sandal,Sandals,Brown,Summer,2011.0,Casual,Lee Cooper Men Brown Casual Sandals
+43958,Men,Footwear,Sandal,Sandals,Olive,Fall,2012.0,Casual,Puma Men Olive Techno Ind Sandal
+28469,Women,Apparel,Topwear,Tshirts,Pink,Summer,2012.0,Casual,Urban Yoga Women Printed Pink T-shirt
+50573,Men,Apparel,Innerwear,Trunk,Charcoal,Summer,2016.0,Casual,Chromozome Men Charcoal Trunk Trunks
+34036,Boys,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,Palm Tree Boys Check Blue Shirt
+55001,Women,Personal Care,Lips,Lipstick,Pink,Spring,2017.0,,Lakme Absolute Lip Last Day Kiss Lip Colour
+8779,Men,Apparel,Topwear,Shirts,Navy Blue,Fall,2011.0,Casual,Indigo Nation Men Club Satin Hot Stepper Navy Blue Shirt
+3391,Women,Accessories,Bags,Handbags,White,Winter,2015.0,Casual,Murcia Women White With Stitch Bag
+43164,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Men Black Watch
+2243,Men,Apparel,Topwear,Tshirts,White,Fall,2010.0,Sports,ADIDAS Men Stripe Polo White Polo T-shirt
+30496,Women,Apparel,Innerwear,Bra,Purple,Summer,2014.0,Casual,Lovable Women Fiona Purple Bra
+27421,Women,Apparel,Loungewear and Nightwear,Lounge Pants,Blue,Winter,2015.0,Casual,Jockey Women Blue Lounge Pants
+57756,Women,Personal Care,Skin Care,Face Wash and Cleanser,Green,Spring,2017.0,Casual,Lotus Herbals Neem & Clove Purifying Face Wash
+33213,Women,Apparel,Topwear,Tops,Magenta,Summer,2012.0,Casual,Sepia Women Printed Magenta Top
+39729,Women,Apparel,Topwear,Tops,Olive,Summer,2012.0,Casual,Arrow Woman Olive Top
+25376,Men,Apparel,Innerwear,Innerwear Vests,Grey,Summer,2016.0,Casual,Levis Men Grey Innerwear T-Shirt
+56684,Women,Apparel,Saree,Sarees,Beige,Fall,2012.0,Ethnic,Fabindia Beige & Maroon Mull Printed Saree
+4988,Women,Apparel,Dress,Dresses,White,Summer,2011.0,Casual,Gini and Jony Girl's Vanya White Polka Dot Kidswear
+44341,Men,Apparel,Topwear,Tshirts,Blue,Summer,2012.0,Casual,Indian Terrain Men Blue T-shirt
+14431,Women,Footwear,Shoes,Heels,Black,Summer,2012.0,Casual,Enroute Women Casual Black Flats
+20604,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Baggit Women Umbrella Dum Brown Handbag
+52224,Women,Accessories,Jewellery,Necklace and Chains,Silver,Summer,2012.0,Casual,Lencia Grey Swarovski Pearl Necklace
+45293,Women,Accessories,Watches,Watches,Red,Winter,2016.0,Casual,CASIO SHEEN Women Red Dial Watch SX017
+36761,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Maxima Men Black Watch
+33021,Women,Apparel,Topwear,Kurtas,Cream,Summer,2012.0,Ethnic,Mother Earth Women Printed Cream Kurta
+25144,Women,Accessories,Bags,Handbags,Orange,Winter,2015.0,Casual,Lino Perros Women Leatherite Orange Handbag
+11371,Men,Apparel,Topwear,Shirts,Black,Fall,2011.0,Casual,United Colors Of Benetton Men Summer Black Shirts
+41401,Women,Apparel,Topwear,Tops,White,Summer,2012.0,Casual,Wrangler Women White Smocked Top
+14603,Men,Accessories,Socks,Socks,Grey,Summer,2011.0,Casual,United Colors of Benetton Men Pack of 2 Grey Socks
+37481,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Esprit Women White Dial Watch
+5254,Unisex,Accessories,Bags,Duffel Bag,Red,Winter,2015.0,Casual,Wildcraft Unisex Red Duffle Bag
+44173,Women,Personal Care,Fragrance,Perfume and Body Mist,Pink,Spring,2017.0,Casual,Nike Fragrances Women Trendy Perfume 75ml
+25978,Women,Personal Care,Fragrance,Perfume and Body Mist,Pink,Spring,2017.0,Casual,J.Del Pozo Halloween Kiss Sexy Women Perfume
+4386,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,Wrangler Cowboy Photo T-shirt
+51693,Unisex,Accessories,Eyewear,Sunglasses,Brown,Winter,2016.0,Casual,Van Heusen Unisex Brown Sunglasses
+16154,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Enroute Men Leather Black Formal Shoes
+22361,Men,Footwear,Sandal,Sports Sandals,Navy Blue,Summer,2012.0,Casual,Reebok Men Navy Twist Sandals
+29789,Men,Apparel,Topwear,Tshirts,Pink,Summer,2013.0,Casual,Basics Men Pack of 3 T-shirt
+19920,Unisex,Accessories,Bags,Backpacks,Black,Winter,2015.0,Casual,Wildcraft Unisex Black Outdoor Backpack
+7503,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Sports,Nike Men's As Icon Blue T-shirt
+46624,Men,Personal Care,Fragrance,Deodorant,Grey,Spring,2017.0,Casual,Rasasi Men Emotion Deo and Perfume Set
+34204,Men,Apparel,Bottomwear,Track Pants,Navy Blue,Fall,2013.0,Casual,Proline Men Navy Track Pants
+17086,Women,Accessories,Wallets,Wallets,Orange,Winter,2015.0,Casual,Lino Perros Women Blue Zip Orange Wallet
+50741,Men,Footwear,Shoes,Casual Shoes,Black,Winter,2018.0,Casual,Red Chief Men Black Shoes
+55233,Women,Personal Care,Makeup,Foundation and Primer,Skin,Summer,2019.0,Casual,Lakme Nine to Five Flawless Makeup Shell Foundation
+13426,Men,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Red  Polo T-shirts
+43356,Women,Footwear,Shoes,Sports Shoes,Charcoal,Summer,2012.0,Sports,Reebok Women Charcoal Grey Fuel Techno Sports Shoes
+28207,Men,Accessories,Eyewear,Sunglasses,Black,Winter,2016.0,Casual,Ray-Ban Men Active Lifestyle Black Sunglasses
+12994,Boys,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,ADIDAS Kids Boys Duramo Synthetic Black Sports Shoes
+46278,Women,Apparel,Topwear,Tunics,Red,Summer,2012.0,Casual,109F Women Red & White Striped Tunic
+16508,Men,Apparel,Bottomwear,Jeans,Blue,Fall,2011.0,Casual,Locomotive Men Washed Blue Jeans
+18492,Men,Footwear,Flip Flops,Flip Flops,Blue,Fall,2011.0,Casual,Puma Men Danny Blue Slipper
+19540,Men,Apparel,Topwear,Sweaters,Blue,Summer,2011.0,Casual,United Colors of Benetton Men Solid Blue Sweater
+7963,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Sports,Puma Men's Large Logo Graphic White French T-shirt
+8117,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fastrack Men New Analog Black Navy Watch
+49230,Men,Accessories,Socks,Socks,Black,Summer,2016.0,Casual,Calzini Men Pack of 5 Sports Socks
+39147,Women,Apparel,Apparel Set,Kurta Sets,Purple,Fall,2012.0,Ethnic,Aneri Women Purple Salwar Suit
+36933,Women,Personal Care,Fragrance,Perfume and Body Mist,Purple,Spring,2017.0,Casual,Bulgari Women Omnia Perfume
+57138,Women,Apparel,Bottomwear,Trousers,Brown,Summer,2012.0,Casual,Elle Women Brown Trousers
+20856,Men,Footwear,Shoes,Casual Shoes,Black,Fall,2011.0,Casual,United Colors of Benetton Men Casual Black Shoes
+41861,Men,Footwear,Sandal,Sandals,Black,Summer,2016.0,Casual,Estd. 1977 Men Black Sandals
+5608,Men,Footwear,Sandal,Sandals,Black,Summer,2011.0,Casual,ADIDAS Men Kendall Black Navy Floater
+58170,Women,Accessories,Bags,Clutches,Red,Fall,2012.0,Casual,Rocky S Women Red Clutch
+53598,Men,Free Items,Free Gifts,Free Gifts,Black,Winter,2016.0,Sports,Q&Q Men Black Digital Watch
+15983,Men,Apparel,Topwear,Shirts,Burgundy,Fall,2011.0,Casual,Turtle Solid Men  Burgundy Shirt
+39375,Women,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Helix Women Silver Dial Watch
+14851,Women,Accessories,Wallets,Wallets,Coffee Brown,Summer,2011.0,Casual,United Colors of Benetton Women Solid Coffee Brown Wallets
+59290,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Titan Men Black Dial Watch
+52678,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Morellato Men Black Watch
+20258,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Wrangler Men Polo Charcoal T-shirt
+47198,Men,Footwear,Sandal,Sandals,Brown,Summer,2012.0,Casual,Franco Leone Men Brown Sandals
+27841,Men,Accessories,Belts,Belts,White,Summer,2012.0,Casual,Bulchee Men Plain Jeans White Belt
+28035,Men,Apparel,Innerwear,Briefs,Grey Melange,Summer,2016.0,Casual,Jockey ELANCE Men Grey Melange Y Front Briefs 1006
+31924,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Fabindia Women Black Silk Handbag
+26993,Women,Apparel,Bottomwear,Jeans,Blue,Summer,2012.0,Casual,Jealous 21 Women Washed Blue Jeans
+13248,Men,Apparel,Bottomwear,Trousers,Brown,Fall,2011.0,Casual,Palm Tree Kids Boy Solid Brown Trousers
+43538,Women,Apparel,Topwear,Tops,Blue,Summer,2012.0,Casual,French Connection Women Blue Top
+8325,Boys,Apparel,Topwear,Tshirts,Yellow,Fall,2011.0,Casual,Doodle Boy's Athletic 77 Dept Yellow Teen Kidswear
+31118,Girls,Apparel,Topwear,Tops,Red,Summer,2012.0,Casual,Gini and Jony Girls Red Top
+19772,Men,Footwear,Shoes,Casual Shoes,Blue,Fall,2011.0,Casual,ADIDAS Men Vigor Blue Casual Shoes
+46876,Men,Accessories,Socks,Socks,Grey,Summer,2012.0,Casual,Lino Perros Men Pack of 2 Socks
+5862,Men,Apparel,Topwear,Tshirts,Black,Summer,2011.0,Casual,ADIDAS Men's Stripe Black T-shirt
+39711,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,ADIDAS Original Men Black Dial Chronograph Watch ADH2641
+14409,Women,Footwear,Shoes,Heels,White,Summer,2012.0,Casual,Enroute Women Casual White Heels
+58726,Men,Apparel,Topwear,Tshirts,Grey,Summer,2012.0,Casual,Puma Men Grey T-shirt
+44379,Men,Personal Care,Fragrance,Perfume and Body Mist,Black,Spring,2017.0,Casual,ADIDAS Men Intense Touch  Perfume
+11947,Men,Footwear,Sandal,Sandals,Olive,Summer,2012.0,Casual,Ganuchi Men Casual Olive Sandals
+51499,Women,Apparel,Bottomwear,Jeans,Blue,Summer,2012.0,Casual,Denizen Women Blue Jeans
+29583,Women,Footwear,Shoes,Flats,Silver,Summer,2012.0,Casual,Puma Women Grace Silver Sandals
+55805,Women,Apparel,Loungewear and Nightwear,Night suits,Pink,Summer,2017.0,Casual,SDL by Sweet Dreams Women Pink & Black Printed Night Suit S11-3134
+7709,Women,Apparel,Bottomwear,Jeans,Black,Fall,2011.0,Casual,Jealous 21 Women's Aaren Black Jegging
+28451,Women,Apparel,Bottomwear,Track Pants,Black,Summer,2012.0,Casual,Urban Yoga Women Black Track Pants
+55039,Women,Personal Care,Lips,Lipstick,Brown,Spring,2017.0,Casual,Lakme Absolute Matte Merlot Lipstick 45
+19316,Unisex,Accessories,Bags,Backpacks,Grey,Fall,2011.0,Casual,Nike Unisex Hayward 25M Grey Backpack
+27419,Women,Apparel,Loungewear and Nightwear,Lounge Pants,Black,Winter,2015.0,Casual,Jockey Women Black Lounge Pants
+34832,Men,Footwear,Shoes,Sports Shoes,White,Summer,2012.0,Sports,ADIDAS Men Sukoi White Sports Shoes
+23885,Men,Footwear,Shoes,Sports Shoes,Grey,Winter,2012.0,Sports,Fila Men Grey Hex Sports Shoes
+19918,Unisex,Accessories,Bags,Backpacks,Black,Winter,2015.0,Casual,Wildcraft Unisex Black Backpack
+22359,Men,Apparel,Topwear,Shirts,Blue,Summer,2011.0,Casual,John Players Men Check Blue Shirt
+19124,Women,Footwear,Flip Flops,Flip Flops,Pink,Fall,2011.0,Casual,Lotto Women XL Kelly Pink Slippers
+16950,Men,Accessories,Eyewear,Sunglasses,Brown,Winter,2016.0,Casual,Image Men Sunglasses
+49654,Women,Apparel,Bottomwear,Skirts,Grey,Summer,2012.0,Casual,Mineral Women Grey Skirt
+48786,Women,Accessories,Jewellery,Pendant,Silver,Summer,2013.0,Casual,Lucera Women Silver Pendant
+2049,Men,Apparel,Topwear,Tshirts,White,Summer,2010.0,Sports,ADIDAS Men's Slim Fit White T-shirt
+17882,Men,Apparel,Innerwear,Innerwear Vests,White,Summer,2016.0,Casual,Levis Men Comfort Style White Innerwear Vest
+44977,Men,Accessories,Watches,Watches,Silver,Winter,2016.0,Casual,Maxima Men Silver Dial Attivo Watch
+33019,Women,Apparel,Topwear,Kurtas,Yellow,Summer,2012.0,Ethnic,Mother Earth Women Printed Yellow Kurta
+41439,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2012.0,Sports,Lee Cooper Men Black Sports Shoes
+39523,Unisex,Accessories,Bags,Trolley Bag,Black,Summer,2012.0,Casual,Peter England Unisex Black One Dayer Black Trolley Bag
+52812,Men,Accessories,Wallets,Wallets,Black,Summer,2012.0,Casual,JAG Men Black Leather Wallet
+11349,Men,Apparel,Bottomwear,Jeans,Blue,Summer,2017.0,Casual,Lee Men Blue Chicago Fit Jeans
+24892,Men,Apparel,Topwear,Tshirts,Black,Fall,2011.0,Casual,United Colors of Benetton Men Black T-shirt
+58514,Women,Apparel,Topwear,Tops,Grey,Summer,2012.0,Casual,Tonga Women Grey Top
+25940,Women,Accessories,Scarves,Scarves,Yellow,Summer,2012.0,Casual,Femella Women Yellow & Blue Scarf
+38637,Men,Apparel,Topwear,Tshirts,Red,Summer,2012.0,Casual,Nike Men Red Delhi T-shirt
+5896,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2011.0,Casual,Puma Men Cavallino Black Shoe
+10861,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Wrangler Men Dirt Riders White T-Shirts
+59600,Women,Apparel,Saree,Sarees,Rust,Fall,2012.0,Ethnic,FNF Rust Wedding Collection Sari
+42846,Women,Accessories,Bags,Handbags,Multi,Summer,2012.0,Casual,French Connection Women Multi Stripe Hand Bag
+35128,Women,Accessories,Jewellery,Bracelet,Purple,Winter,2012.0,Casual,Allen Solly Woman Purple Bangle
+47508,Men,Apparel,Innerwear,Briefs,Black,Summer,2016.0,Casual,Facit Men Black Brief
+54923,Girls,Apparel,Bottomwear,Capris,Olive,Summer,2012.0,Casual,Do u speak Green Girls Olive 3/4 Pant
+43994,Women,Personal Care,Fragrance,Deodorant,Pink,Spring,2017.0,Casual,Police Women Passion Deo
+17278,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,U.S. Polo Assn. Men Printed  Steeple Grey Tshirt
+31588,Men,Apparel,Topwear,Tshirts,Maroon,Summer,2012.0,Casual,Mark Taylor Men Printed Maroon T-shirt
+49492,Men,Footwear,Shoes,Casual Shoes,Maroon,Summer,2012.0,Casual,Vans Men Maroon & Grey Era Shoes
+18230,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Manchester United Men Printed White Tshirt
+23871,Men,Apparel,Topwear,Tshirts,Grey,Fall,2011.0,Casual,ADIDAS Men Grey Striped T-shirt
+16198,Men,Apparel,Bottomwear,Tracksuits,Black,Fall,2011.0,Sports,Puma Men Poly Knitted Black Tracksuit
+3953,Women,Apparel,Topwear,Tshirts,Red,Summer,2011.0,Casual,Jealous 21 Women's Red Peace T-shirt
+29745,Men,Accessories,Watches,Watches,Black,Winter,2016.0,Casual,Fossil Men Quartz Black Dial Chronograph Watch JR1303
+28697,Women,Apparel,Topwear,Kurtas,Black,Summer,2012.0,Ethnic,W Women Printed Black Kurta
+12538,Men,Apparel,Bottomwear,Track Pants,Blue,Fall,2011.0,Casual,Puma Men Solid Blue Track Pants
+8587,Men,Apparel,Topwear,Shirts,Red,Fall,2011.0,Casual,Scullers Men Red Check Shirt
+42248,Women,Apparel,Topwear,Tops,Pink,Summer,2012.0,Casual,Sepia Women Pink Top
+48772,Women,Accessories,Jewellery,Pendant,Silver,Summer,2013.0,Casual,Lucera Women Silver Pendant
+17876,Men,Apparel,Innerwear,Innerwear Vests,Grey,Summer,2016.0,Casual,Levis Men Comfort Style Grey Innerwear Vest
+30668,Men,Accessories,Eyewear,Sunglasses,Black,Winter,2016.0,Casual,Park Avenue Men Black Sunglasses
+18002,Women,Apparel,Bottomwear,Capris,Black,Summer,2011.0,Sports,Puma Women Essential Skinny Black 3/4 Pant
+38405,Women,Accessories,Belts,Belts,White,Summer,2012.0,Casual,Baggit Women White Capri Taj Belt
+53934,Women,Accessories,Bags,Handbags,Brown,Summer,2012.0,Casual,Kiara Women Brown Handbag
+1638,Unisex,Apparel,Bottomwear,Swimwear,Blue,Fall,2010.0,Sports,Nabaiji Swimming Goggles Blue Black
+25188,Women,Accessories,Bags,Handbags,Brown,Winter,2015.0,Casual,Lino Perros Women Leatherite Brown Handbag
+53108,Women,Accessories,Jewellery,Earrings,Silver,Winter,2016.0,Casual,Fabindia Silver Earrings
+21528,Women,Accessories,Bags,Handbags,Copper,Winter,2015.0,Casual,Kiara Women Sequins Copper Handbag
+59432,Women,Accessories,Bags,Handbags,Black,Summer,2012.0,Casual,Spice Art Women Black Handbag
+32903,Women,Apparel,Bottomwear,Shorts,Red,Summer,2012.0,Casual,Allen Solly Women Red Shorts
+6079,Men,Apparel,Topwear,Tshirts,Grey,Summer,2011.0,Casual,UCB Men's Johny Collar With Two Tone Grey T-shirt
+12960,Men,Footwear,Shoes,Sports Shoes,White,Fall,2011.0,Sports,ADIDAS Men Sports White Sports Shoes
+29321,Men,Apparel,Topwear,Tshirts,Black,Summer,2012.0,Sports,ADIDAS Men Black Jersey
+9031,Men,Footwear,Shoes,Casual Shoes,Tan,Winter,2011.0,Casual,Buckaroo Men loma Tan Casual Shoes
+6845,Unisex,Accessories,Shoe Accessories,Shoe Laces,Black,Summer,2011.0,Casual,Timberland Unisex Hiker Round Lace Shoe Accessories
+18466,Women,Personal Care,Fragrance,Perfume and Body Mist,White,Spring,2017.0,Casual,Reebok Reebounce Women Perfumes
+26369,Women,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Casual,Arrow Woman Blue Shirt
+33489,Men,Apparel,Topwear,Shirts,Green,Summer,2012.0,Casual,Doodle Kids Boy Check Green Shirt
+59056,Women,Footwear,Shoes,Casual Shoes,Blue,Winter,2012.0,Casual,Carlton London Women Blue & Cream Shoes
+15379,Men,Footwear,Shoes,Casual Shoes,Black,Summer,2012.0,Casual,Fila Men Lobato Black Casual Shoes
+45409,Women,Footwear,Shoes,Flats,Black,Winter,2012.0,Casual,Rocia Women Black & Brown Sandals
+56822,Men,Apparel,Bottomwear,Trousers,Beige,Summer,2012.0,Casual,John Players Men Beige Shorts
+58184,Women,Accessories,Bags,Handbags,Beige,Summer,2012.0,Casual,Rocky S Women Beige Handbag
+40947,Boys,Apparel,Topwear,Tshirts,Red,Summer,2012.0,Casual,Gini and Jony Boys Core Red T-shirt
+39381,Men,Apparel,Bottomwear,Jeans,Black,Summer,2012.0,Casual,Peter England Men Party Black Jeans
+32769,Men,Apparel,Topwear,Tshirts,Blue,Spring,2013.0,Casual,Music Men Printed Blue T-shirt
+10439,Men,Apparel,Topwear,Tshirts,Brown,Fall,2011.0,Casual,Flying Machine Men Walnut Brown Tshirts
+59264,Women,Accessories,Watches,Watches,White,Winter,2016.0,Casual,Titan Women White Watch
+14099,Women,Apparel,Topwear,Tops,Pink,Fall,2011.0,Casual,Flying Machine Women Solid Pink Tops
+1852,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Inkfruit Men Ride It Or Die T-shirt
+30802,Men,Apparel,Topwear,Shirts,Blue,Summer,2012.0,Ethnic,Fabindia Men Blue Shirt
+51009,Women,Apparel,Innerwear,Bra,Rose,Summer,2017.0,Casual,Enamor Rose Full Figure Bra FF07
+29113,Women,Accessories,Socks,Socks,White,Summer,2012.0,Casual,Puma Women Pack of 3 Socks
+7399,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2018.0,Formal,Red Tape Men's Black Formal Shoe
+26967,Women,Apparel,Topwear,Tops,Navy Blue,Summer,2012.0,Casual,Jealous 21 Women Check Navy Blue Top
+27089,Women,Apparel,Topwear,Kurtas,Brown,Summer,2012.0,Ethnic,Aneri Women Jazz Brown Kurta
+48124,Women,Accessories,Belts,Belts,Brown,Summer,2012.0,Casual,Fossil Women Brown Huarache Weave Belt
+9203,Men,Footwear,Shoes,Sports Shoes,Black,Fall,2011.0,Sports,Puma Men Axis XT Black Shoes
+51835,Women,Apparel,Innerwear,Briefs,Red,Summer,2016.0,Casual,Bwitch Red Lace  Briefs
+3739,Men,Accessories,Headwear,Caps,Blue,Fall,2010.0,Sports,ADIDAS Men Delhi Daredevil Blue Cap
+19786,Men,Apparel,Topwear,Tshirts,Navy Blue,Winter,2016.0,Casual,U.S. Polo Assn. Men Solid Navy Blue Tshirt
+44948,Men,Footwear,Shoes,Sports Shoes,Black,Summer,2012.0,Sports,Puma Men Black Aquil II Sports Shoes
+24091,Men,Apparel,Topwear,Tshirts,Navy Blue,Fall,2011.0,Casual,Manchester United Men Navy Blue Striped T-shirt
+57563,Women,Personal Care,Lips,Lipstick,Brown,Spring,2017.0,,Lotus Herbals Pure Colours Nutty Brown Lipstick 666
+33026,Women,Apparel,Topwear,Kurtas,Pink,Fall,2012.0,Ethnic,Mother Earth Women Pink Kurta
+41406,Women,Apparel,Topwear,Tshirts,Pink,Summer,2012.0,Casual,Wrangler Women Pink T-shirt
+11376,Women,Apparel,Topwear,Tops,Grey,Fall,2011.0,Casual,United Colors Of Benetton Women Light Winter Grey Tops
+25143,Women,Accessories,Bags,Clutches,Silver,Winter,2015.0,Casual,Lino Perros Women Silver Clutch
+44174,Women,Personal Care,Fragrance,Fragrance Gift Set,White,Spring,2017.0,Casual,Nike Fragrances Women Sensual Touch Perfume and Deo Set
+5253,Unisex,Accessories,Bags,Duffel Bag,Grey,Winter,2015.0,Casual,Wildcraft Unisex Black & Grey Duffel Bag
+20431,Women,Accessories,Wallets,Wallets,Brown,Winter,2015.0,Casual,Baggit Women Tijori Viva Brown Wallet
+14604,Men,Accessories,Socks,Socks,Green,Summer,2011.0,Casual,United Colors of Benetton Men Stripes Green Socks
+4381,Men,Apparel,Topwear,Tshirts,Blue,Summer,2011.0,Casual,Superman Men's Silhouette Light Blue T-shirt
+46623,Unisex,Accessories,Bags,Backpacks,Black,Summer,2012.0,Casual,Nike Unisex Ultimatum Max Backpack
+19927,Men,Footwear,Sandal,Sandals,Grey,Fall,2011.0,Casual,ADIDAS Men Receptor Grey Sandals
+7504,Women,Apparel,Topwear,Tshirts,Pink,Summer,2011.0,Sports,Nike Women's Smash Pink T-shirt
+22366,Men,Apparel,Topwear,Tshirts,White,Fall,2011.0,Casual,Ed Hardy Men New Tiger White T-Shirt
+3998,Men,Footwear,Flip Flops,Flip Flops,Black,Summer,2011.0,Casual,Spalding Men's Black and White Graphic Flip Flop
+16153,Men,Footwear,Shoes,Formal Shoes,Black,Fall,2011.0,Formal,Enroute Men Leather Black Formal Shoes
+17081,Women,Accessories,Wallets,Wallets,Blue,Winter,2015.0,Casual,Lino Perros Women Denim Blue Wallet
+50746,Men,Footwear,Shoes,Formal Shoes,Black,Winter,2018.0,Formal,Red Chief Men Black Formal Shoes
+34203,Men,Apparel,Bottomwear,Track Pants,Charcoal,Winter,2013.0,Casual,Proline Men Charcoal Grey Track Pants
+55234,Women,Personal Care,Makeup,Foundation and Primer,Skin,Summer,2019.0,Casual,Lakme 9to5 Flawless Makeup Marble Foundation
